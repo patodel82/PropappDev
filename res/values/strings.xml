@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Propapp</string>
+    <string name="title_activity_maps">Propapp</string>
+    <string name="title_activity_filters">130.000 USD</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
